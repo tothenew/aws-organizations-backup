@@ -1,0 +1,5 @@
+boto3==1.20.34
+simplejson==3.17.3
+datetime==4.3
+click==8.0
+
