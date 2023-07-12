@@ -13,7 +13,7 @@ AWS Organizations Backup is a tool designed to capture and backup important deta
 
 - Retrieve account details.
 - Enabled services & policies.
-- Backup AI, SCP, Backup & Tag Policies.
+- AI, SCP, Backup & Tag Policies.
 - Fetch Delegated Administrator configuration.
 
 
